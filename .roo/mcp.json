@@ -1,0 +1,21 @@
+{
+  "mcpServers": {
+    "world-builder-mcp": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--env-file",
+        "/Users/rich/Projects/Workshop_Vibe_coding/.env",
+        "/Users/rich/Projects/world_builder_server/.venv/bin/python",
+        "/Users/rich/Projects/world_builder_server/main_mcp_web.py"
+      ],
+      "disabled": false,
+      "alwaysAllow": [
+        "vibelogic_checkResource",
+        "vibelogic_toolLink",
+        "vibelogic_checkProjectStatus",
+        "vibelogic_generateGraphVisualization"
+      ]
+    }
+  }
+}
