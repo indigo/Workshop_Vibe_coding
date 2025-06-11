@@ -14,15 +14,22 @@ Why? Because chess players use AI every day. Not necessarily because AI is the m
 The chess community accepted AI as a powerful training partner, an essential tool for improvement... not an enemy.
 
 This chess story is a great lesson for all of us in creative fields. We should see AI as an opportunity – an opportunity to learn, to get better at what we are already good at, what we like to do.
+
 (short pause)
+
 And think about how those chess programs evolved: before modern AI, like LLMs and Transformers, the best chess engines were built with millions of lines of complex, hand-crafted code. Now? It's more like one big "brain" that largely trains itself on the game.
-(pause)
-The same kind of simplification can happen in our work. Today’s AI can help simplify a lot of our complex coding tasks. Things that used to need thousands of lines of specific instructions can now be handled more elegantly by an AI that can think and adapt.
+
 (pause)
 
-But yes, there’s a lot of worry right now, especially in video games. These AIs can create things that seem as good as, or even better than, what some humans can do… just like in chess.
-(short pause)
-So the big question is: how do we use AI constructively, and stay in control?
-(significant pause)
+The same kind of simplification can happen in our work. Today’s AI can help simplify a lot of our complex coding tasks. Things that used to need thousands of lines of specific instructions can now be handled more elegantly by an AI that can think and adapt.
+
+(pause)
+
+And like chess players, we should probably use AI to get better at what we do.
+
 
 ---
+
+## Linked Resources
+- [next](presentation://section_3_What)
+

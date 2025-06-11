@@ -1,6 +1,23 @@
 {
-  "presentation://section_1_Hook": "6a894a6bc0ae27f8c5520efb39ad4456",
-  "type://presentation": "bfd4881b54b3195de73cbd09ba13b07f",
-  "presentation://section_2_Why": "091b6ac293f003289cde240d7e82e812",
-  "presentation://section_3_What": "55aa8f4e2e62309a14af1f8b72f76230"
+  "asset://presentation/section_5_Games/finalgraph.png": "11e2d70f4e648611ec914c0fbdcdac2d|b1269cb6edbe1b8342be8f1722950caf",
+  "asset://presentation/section_1_Hook/richard.png": "7ea7990b3555431d2067f631c35c0f67|016034825b0e30f3b023319c7e8c94fd",
+  "asset://presentation/section_5_Games/MakingGames.png": "d9fb561920f533d6e57f5817e38e1238|1085644f98e7a711c37260a7df54d6b8",
+  "asset://presentation/section_4_How/images/statustool.png": "f977e4cad7ae0a2b60a9a1a39ba741c6|51dcb9522c09992fc9bbca80d6159791",
+  "presentation://section_4_How": "67882fad71ecb8cdb20446940cf06243",
+  "asset://status_report/status_report_20250611_113054.md": "76a249c3f1ddf6274542dd4c96ba9ccd",
+  "asset://presentation/section_4_How/images/VibeLogicOverview.png": "a2566156e3b4072a25d7aa8b0683f0d7|3e6a2737e8ee1abf53174da51b18f05d",
+  "type://status_report": "d363918387a9b57be4be02dabf5cf9bd",
+  "asset://presentation/section_3_What/Ryman.png": "985289f88ebb4884da840571db9132e5|fb1dae885dd93a99cf400e12375031b3",
+  "presentation://section_5_Games": "1ec2de820d906672e4dc467e4ebfb2ba",
+  "asset://presentation/section_4_How/images/mcpview.png": "020d862ac6770e039e09a4acb71353f2|2c7278161a40a850a438c8b25971a135",
+  "type://presentation": "4124a4d346727a8cbd32b8aa20d2d53e",
+  "asset://presentation/section_2_Why/deep-blue-kasparov.jpg": "ba9bc26cca3a1e4d7b91912f8f798969|258a7466b3eef8b8beee4d008ae0f5df",
+  "asset://presentation/section_4_How/images/approval.png": "1f0f2862aedc75c43835e711d7e27637|b506b816160a1ed615ac0bfb5cbac06b",
+  "asset://presentation/section_3_What/vibelogic.png": "a47a8a78205ac5dd0026398d23e3c055|574a3df886373867f0a62e66a693f015",
+  "asset://presentation/section_4_How/images/statustype.png": "61dd0888eb30e1c7a3f3b936a2af7126|ae78fb88571cdd5ac19c8bfdddf214c8",
+  "asset://presentation/section_4_How/images/types.png": "672ecb9e5c40c4dee28624254444e9b0|622a6cd9c9b9d0159af3e1f7a12f37f8",
+  "asset://presentation/section_4_How/images/approvetool.png": "33c482659e8c993466ab4aecfca907f9|a621a6c54f29ec717b7d121a63e33552",
+  "presentation://section_1_Hook": "be9cf635df479cc93b5bd110f8911fa0",
+  "presentation://section_3_What": "43acfe0703035defc4422d4d31e0bb22",
+  "presentation://section_2_Why": "453aea514d480adef27fcdb93f116b99"
 }

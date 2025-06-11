@@ -1,33 +1,628 @@
 {
-  "presentation://section_1_Hook": {
-    "uri": "presentation://section_1_Hook",
-    "path": "presentation/section_1_Hook",
-    "name": "section_1_Hook",
-    "item_type": "Resource",
-    "checksum": "6a894a6bc0ae27f8c5520efb39ad4456",
+  "asset://presentation/section_5_Games/finalgraph.png": {
+    "uri": "asset://presentation/section_5_Games/finalgraph.png",
+    "path": "presentation/section_5_Games/finalgraph.png",
+    "name": "finalgraph.png",
+    "item_type": "Asset",
+    "checksum": "11e2d70f4e648611ec914c0fbdcdac2d",
     "change_log": [
       {
-        "timestamp": "2025-06-09T12:53:57.465926Z",
+        "timestamp": "2025-06-11T17:03:54.857108Z",
         "action": "ITEM_DISCOVERED_ON_DISK_NEW",
         "user": null,
         "old_value": null,
-        "new_value": "cs:6a894a6bc0ae27f8c5520efb39ad4456",
+        "new_value": "cs:11e2d70f4e648611ec914c0fbdcdac2d",
         "details": null
       }
     ],
     "status": "new",
     "parent_type_uri": "type://presentation",
-    "definition_file_path": "presentation/section_1_Hook/section_1_Hook.md",
-    "content": "# SECTION 1: Hook / Introduction - Your Vision & The AI Context\n\nI'm the kind of person, that if given a 5 minute task, I'll make a tool to make the task in 5s, but that'll take me 5hours\n\nI'm always thinking that Computer are tools, to automate the repetive tasks.\n\nBut today they are obviously a lot more than that.\n(short pause)\nToday they are incredibly capable smart assistant.\n\n(short pause)\nYou know they actually predict the next word in a sentence. Everybody uses it, and you can see the stream of words coming. It stops when it's enough.\n\nWhen we worked for the game Tetris at EA Mobile, we used AI to predict how players would make their next move. A very similar process to what large language models do, but that was 14 years ago.\n\n(short pause)\n\nWe had to bring in the best Tetris players in the world to play the game and collect data. That was a lot of fun.\n\n(short pause)\n\nThis isn't new; we've been doing that for years. It's just that now, thanks to the deep learning models we're getting very good at it.\n(pause)\n\n(short pause)\n\nAI can create art, music, write code, play games, pretty much anything.\n\n(short pause)\n\nBut this brings a big question: If AI can automate so much of the production\u2026 what\u2019s our role as creators?\n\n(short pause)\n\nIf they do all the work what's left for us to do?\n\n(short pause)\n\nHow do we stay in control and use this amazing power, instead of feeling overwhelmed by it?\n\n(significant pause)\n\n---\n\n",
+    "parent_resource_uri": "presentation://section_5_Games",
+    "is_markdown_asset": false,
+    "description_file_path": "/Users/rich/Projects/Workshop_Vibe_coding/data/presentation/section_5_Games/finalgraph.png.md",
+    "description_content": "# Description for Asset: finalgraph.png\n",
+    "description_checksum": "b1269cb6edbe1b8342be8f1722950caf"
+  },
+  "asset://presentation/section_4_How/VibeLogicOverview.png": {
+    "uri": "asset://presentation/section_4_How/VibeLogicOverview.png",
+    "path": "presentation/section_4_How/VibeLogicOverview.png",
+    "name": "VibeLogicOverview.png",
+    "item_type": "Asset",
+    "checksum": "a2566156e3b4072a25d7aa8b0683f0d7",
+    "change_log": [
+      {
+        "timestamp": "2025-06-11T11:43:04.389910Z",
+        "action": "ITEM_DISCOVERED_ON_DISK_NEW",
+        "user": null,
+        "old_value": null,
+        "new_value": "cs:a2566156e3b4072a25d7aa8b0683f0d7",
+        "details": null
+      },
+      {
+        "timestamp": "2025-06-11T14:33:21.564904Z",
+        "action": "ITEM_DELETED_FROM_FILESYSTEM",
+        "user": null,
+        "old_value": null,
+        "new_value": null,
+        "details": null
+      }
+    ],
+    "status": "removed",
+    "parent_type_uri": "type://presentation",
+    "parent_resource_uri": "presentation://section_4_How",
+    "is_markdown_asset": false,
+    "description_file_path": "/Users/rich/Projects/Workshop_Vibe_coding/data/presentation/section_4_How/VibeLogicOverview.png.md",
+    "description_content": "# Description for Asset: VibeLogicOverview.png\n",
+    "description_checksum": "3e6a2737e8ee1abf53174da51b18f05d"
+  },
+  "asset://presentation/section_2_Why/deep-blue-kasparov.md": {
+    "uri": "asset://presentation/section_2_Why/deep-blue-kasparov.md",
+    "path": "presentation/section_2_Why/deep-blue-kasparov.md",
+    "name": "deep-blue-kasparov.md",
+    "item_type": "Asset",
+    "checksum": "87d2f6671d646be0ea3e1cbdb9e277d6",
+    "change_log": [
+      {
+        "timestamp": "2025-06-11T11:02:43.973786Z",
+        "action": "ITEM_DISCOVERED_ON_DISK_NEW",
+        "user": null,
+        "old_value": null,
+        "new_value": "cs:87d2f6671d646be0ea3e1cbdb9e277d6",
+        "details": null
+      },
+      {
+        "timestamp": "2025-06-11T11:06:11.612113Z",
+        "action": "ITEM_DELETED_FROM_FILESYSTEM",
+        "user": null,
+        "old_value": null,
+        "new_value": null,
+        "details": null
+      }
+    ],
+    "status": "removed",
+    "parent_type_uri": "type://presentation",
+    "parent_resource_uri": "presentation://section_2_Why",
+    "is_markdown_asset": true,
+    "description_file_path": null,
+    "description_content": "A picture of Deep Blue and Kasparov",
+    "description_checksum": null
+  },
+  "asset://presentation/section_4_How/statustool.png": {
+    "uri": "asset://presentation/section_4_How/statustool.png",
+    "path": "presentation/section_4_How/statustool.png",
+    "name": "statustool.png",
+    "item_type": "Asset",
+    "checksum": "f977e4cad7ae0a2b60a9a1a39ba741c6",
+    "change_log": [
+      {
+        "timestamp": "2025-06-11T12:36:36.550429Z",
+        "action": "ITEM_DISCOVERED_ON_DISK_NEW",
+        "user": null,
+        "old_value": null,
+        "new_value": "cs:f977e4cad7ae0a2b60a9a1a39ba741c6",
+        "details": null
+      },
+      {
+        "timestamp": "2025-06-11T14:33:21.564872Z",
+        "action": "ITEM_DELETED_FROM_FILESYSTEM",
+        "user": null,
+        "old_value": null,
+        "new_value": null,
+        "details": null
+      }
+    ],
+    "status": "removed",
+    "parent_type_uri": "type://presentation",
+    "parent_resource_uri": "presentation://section_4_How",
+    "is_markdown_asset": false,
+    "description_file_path": "/Users/rich/Projects/Workshop_Vibe_coding/data/presentation/section_4_How/statustool.png.md",
+    "description_content": "# Description for Asset: statustool.png\n",
+    "description_checksum": "51dcb9522c09992fc9bbca80d6159791"
+  },
+  "presentation://maintaining_human_control_with_ai": {
+    "uri": "presentation://maintaining_human_control_with_ai",
+    "path": "presentation/maintaining_human_control_with_ai",
+    "name": "Maintaining_Human_Control_With_Ai",
+    "item_type": "Resource",
+    "checksum": "84ffa467de47a8a75815ed9d601f29b7",
+    "change_log": [
+      {
+        "timestamp": "2025-06-09T13:21:50.947400Z",
+        "action": "CREATED_BY_LLM_SUGGESTION",
+        "user": null,
+        "old_value": null,
+        "new_value": null,
+        "details": "From approval of presentation://section_2_Why"
+      },
+      {
+        "timestamp": "2025-06-09T13:21:51.487034Z",
+        "action": "MODIFIED_ON_FILESYSTEM",
+        "user": null,
+        "old_value": "PrevCS:{'main': '7ec70fd525023247db3561e0bdb8a0fe', 'desc': None} | PrevStatus:pending_approval",
+        "new_value": "NewCS:84ffa467de47a8a75815ed9d601f29b7|None",
+        "details": "Reasons: main_content_checksum_mismatch"
+      },
+      {
+        "timestamp": "2025-06-11T11:02:43.976252Z",
+        "action": "ITEM_DELETED_FROM_FILESYSTEM",
+        "user": null,
+        "old_value": null,
+        "new_value": null,
+        "details": null
+      }
+    ],
+    "status": "removed",
+    "parent_type_uri": "type://presentation",
+    "definition_file_path": "presentation/maintaining_human_control_with_ai/maintaining_human_control_with_ai.md",
+    "content": "# Maintaining_Human_Control_With_Ai\n\nExplores frameworks and principles for ensuring human oversight and control over AI-generated content and AI-assisted workflows in creative industries, addressing the 'stay in control' question.\n\n## Related Resources\n- [Suggestion Source: section_2_Why](presentation://section_2_Why)\n\n## Linked Resources\n- [Suggested by approval of 'section_2_Why'](presentation://section_2_Why)\n",
+    "links": [
+      {
+        "target_uri": "presentation://section_2_Why",
+        "label": "Suggested by approval of 'section_2_Why'"
+      }
+    ],
+    "linked_from": [
+      {
+        "target_uri": "presentation://section_2_Why",
+        "label": "section_2_Why"
+      }
+    ]
+  },
+  "asset://presentation/section_3_What/image.png": {
+    "uri": "asset://presentation/section_3_What/image.png",
+    "path": "presentation/section_3_What/image.png",
+    "name": "image.png",
+    "item_type": "Asset",
+    "checksum": "46498cd67f5a0c352cba5e3da9bf00cc",
+    "change_log": [
+      {
+        "timestamp": "2025-06-11T11:02:43.972641Z",
+        "action": "ITEM_DISCOVERED_ON_DISK_NEW",
+        "user": null,
+        "old_value": null,
+        "new_value": "cs:46498cd67f5a0c352cba5e3da9bf00cc",
+        "details": null
+      },
+      {
+        "timestamp": "2025-06-11T14:33:21.564981Z",
+        "action": "ITEM_DELETED_FROM_FILESYSTEM",
+        "user": null,
+        "old_value": null,
+        "new_value": null,
+        "details": null
+      }
+    ],
+    "status": "removed",
+    "parent_type_uri": "type://presentation",
+    "parent_resource_uri": "presentation://section_3_What",
+    "is_markdown_asset": false,
+    "description_file_path": "/Users/rich/Projects/Workshop_Vibe_coding/data/presentation/section_3_What/image.png.md",
+    "description_content": "# Description for Asset: image.png\n",
+    "description_checksum": "1332cc116ca9b263c79fa603dbcd609f"
+  },
+  "asset://presentation/section_4_How/approval.png": {
+    "uri": "asset://presentation/section_4_How/approval.png",
+    "path": "presentation/section_4_How/approval.png",
+    "name": "approval.png",
+    "item_type": "Asset",
+    "checksum": "1f0f2862aedc75c43835e711d7e27637",
+    "change_log": [
+      {
+        "timestamp": "2025-06-11T12:48:43.937231Z",
+        "action": "ITEM_DISCOVERED_ON_DISK_NEW",
+        "user": null,
+        "old_value": null,
+        "new_value": "cs:1f0f2862aedc75c43835e711d7e27637",
+        "details": null
+      },
+      {
+        "timestamp": "2025-06-11T12:49:06.559930Z",
+        "action": "ITEM_DELETED_FROM_FILESYSTEM",
+        "user": null,
+        "old_value": null,
+        "new_value": null,
+        "details": null
+      }
+    ],
+    "status": "removed",
+    "parent_type_uri": "type://presentation",
+    "parent_resource_uri": "presentation://section_4_How",
+    "is_markdown_asset": false,
+    "description_file_path": "/Users/rich/Projects/Workshop_Vibe_coding/data/presentation/section_4_How/approval.png.md",
+    "description_content": "# Description for Asset: approval.png\n",
+    "description_checksum": "b506b816160a1ed615ac0bfb5cbac06b"
+  },
+  "asset://presentation/section_4_How/mcpview.png": {
+    "uri": "asset://presentation/section_4_How/mcpview.png",
+    "path": "presentation/section_4_How/mcpview.png",
+    "name": "mcpview.png",
+    "item_type": "Asset",
+    "checksum": "020d862ac6770e039e09a4acb71353f2",
+    "change_log": [
+      {
+        "timestamp": "2025-06-11T12:25:05.834774Z",
+        "action": "ITEM_DISCOVERED_ON_DISK_NEW",
+        "user": null,
+        "old_value": null,
+        "new_value": "cs:020d862ac6770e039e09a4acb71353f2",
+        "details": null
+      },
+      {
+        "timestamp": "2025-06-11T12:26:52.546727Z",
+        "action": "MODIFIED_ON_FILESYSTEM",
+        "user": null,
+        "old_value": "PrevCS:{'main': '020d862ac6770e039e09a4acb71353f2', 'desc': 'c9c7ff8ab74746f1265fa90826df0f25'} | PrevStatus:new",
+        "new_value": "NewCS:020d862ac6770e039e09a4acb71353f2|2c7278161a40a850a438c8b25971a135",
+        "details": "Reasons: description_checksum_mismatch"
+      },
+      {
+        "timestamp": "2025-06-11T12:49:06.560045Z",
+        "action": "ITEM_DELETED_FROM_FILESYSTEM",
+        "user": null,
+        "old_value": null,
+        "new_value": null,
+        "details": null
+      }
+    ],
+    "status": "removed",
+    "parent_type_uri": "type://presentation",
+    "parent_resource_uri": "presentation://section_4_How",
+    "is_markdown_asset": false,
+    "description_file_path": "/Users/rich/Projects/Workshop_Vibe_coding/data/presentation/section_4_How/mcpview.png.md",
+    "description_content": "# Description for Asset: mcpview.png\n\nscreenshot of the mcp server window within Roo",
+    "description_checksum": "2c7278161a40a850a438c8b25971a135"
+  },
+  "asset://presentation/section_4_How/approvetool.png": {
+    "uri": "asset://presentation/section_4_How/approvetool.png",
+    "path": "presentation/section_4_How/approvetool.png",
+    "name": "approvetool.png",
+    "item_type": "Asset",
+    "checksum": "33c482659e8c993466ab4aecfca907f9",
+    "change_log": [
+      {
+        "timestamp": "2025-06-11T12:36:36.550263Z",
+        "action": "ITEM_DISCOVERED_ON_DISK_NEW",
+        "user": null,
+        "old_value": null,
+        "new_value": "cs:33c482659e8c993466ab4aecfca907f9",
+        "details": null
+      },
+      {
+        "timestamp": "2025-06-11T12:49:06.560083Z",
+        "action": "ITEM_DELETED_FROM_FILESYSTEM",
+        "user": null,
+        "old_value": null,
+        "new_value": null,
+        "details": null
+      }
+    ],
+    "status": "removed",
+    "parent_type_uri": "type://presentation",
+    "parent_resource_uri": "presentation://section_4_How",
+    "is_markdown_asset": false,
+    "description_file_path": "/Users/rich/Projects/Workshop_Vibe_coding/data/presentation/section_4_How/approvetool.png.md",
+    "description_content": "# Description for Asset: approvetool.png\n",
+    "description_checksum": "a621a6c54f29ec717b7d121a63e33552"
+  },
+  "asset://presentation/section_1_Hook/richard.png": {
+    "uri": "asset://presentation/section_1_Hook/richard.png",
+    "path": "presentation/section_1_Hook/richard.png",
+    "name": "richard.png",
+    "item_type": "Asset",
+    "checksum": "7ea7990b3555431d2067f631c35c0f67",
+    "change_log": [
+      {
+        "timestamp": "2025-06-11T13:40:05.478961Z",
+        "action": "ITEM_DISCOVERED_ON_DISK_NEW",
+        "user": null,
+        "old_value": null,
+        "new_value": "cs:7ea7990b3555431d2067f631c35c0f67",
+        "details": null
+      }
+    ],
+    "status": "new",
+    "parent_type_uri": "type://presentation",
+    "parent_resource_uri": "presentation://section_1_Hook",
+    "is_markdown_asset": false,
+    "description_file_path": "/Users/rich/Projects/Workshop_Vibe_coding/data/presentation/section_1_Hook/richard.png.md",
+    "description_content": "# Description for Asset: richard.png\n",
+    "description_checksum": "016034825b0e30f3b023319c7e8c94fd"
+  },
+  "asset://presentation/section_5_Games/MakingGames.png": {
+    "uri": "asset://presentation/section_5_Games/MakingGames.png",
+    "path": "presentation/section_5_Games/MakingGames.png",
+    "name": "MakingGames.png",
+    "item_type": "Asset",
+    "checksum": "d9fb561920f533d6e57f5817e38e1238",
+    "change_log": [
+      {
+        "timestamp": "2025-06-11T17:00:41.752704Z",
+        "action": "ITEM_DISCOVERED_ON_DISK_NEW",
+        "user": null,
+        "old_value": null,
+        "new_value": "cs:d9fb561920f533d6e57f5817e38e1238",
+        "details": null
+      },
+      {
+        "timestamp": "2025-06-11T17:01:16.924083Z",
+        "action": "MODIFIED_ON_FILESYSTEM",
+        "user": null,
+        "old_value": "PrevCS:{'main': 'd9fb561920f533d6e57f5817e38e1238', 'desc': '93de525ac050df2640e3ccfb42a3b544'} | PrevStatus:new",
+        "new_value": "NewCS:d9fb561920f533d6e57f5817e38e1238|1085644f98e7a711c37260a7df54d6b8",
+        "details": "Reasons: description_checksum_mismatch"
+      }
+    ],
+    "status": "changed",
+    "parent_type_uri": "type://presentation",
+    "parent_resource_uri": "presentation://section_5_Games",
+    "is_markdown_asset": false,
+    "description_file_path": "/Users/rich/Projects/Workshop_Vibe_coding/data/presentation/section_5_Games/MakingGames.png.md",
+    "description_content": "# Description for Asset: MakingGames.png\n\nA visual illustration of someone working with AI",
+    "description_checksum": "1085644f98e7a711c37260a7df54d6b8"
+  },
+  "asset://presentation/section_4_How/images/statustool.png": {
+    "uri": "asset://presentation/section_4_How/images/statustool.png",
+    "path": "presentation/section_4_How/images/statustool.png",
+    "name": "statustool.png",
+    "item_type": "Asset",
+    "checksum": "f977e4cad7ae0a2b60a9a1a39ba741c6",
+    "change_log": [
+      {
+        "timestamp": "2025-06-11T14:33:21.564510Z",
+        "action": "ITEM_DISCOVERED_ON_DISK_NEW",
+        "user": null,
+        "old_value": null,
+        "new_value": "cs:f977e4cad7ae0a2b60a9a1a39ba741c6",
+        "details": null
+      }
+    ],
+    "status": "new",
+    "parent_type_uri": "type://presentation",
+    "parent_resource_uri": "presentation://section_4_How",
+    "is_markdown_asset": false,
+    "description_file_path": "presentation/section_4_How/images/statustool.png.md",
+    "description_content": "# Description for Asset: statustool.png\n",
+    "description_checksum": "51dcb9522c09992fc9bbca80d6159791"
+  },
+  "presentation://section_4_How": {
+    "uri": "presentation://section_4_How",
+    "path": "presentation/section_4_How",
+    "name": "section_4_How",
+    "item_type": "Resource",
+    "checksum": "67882fad71ecb8cdb20446940cf06243",
+    "change_log": [
+      {
+        "timestamp": "2025-06-11T11:43:04.389875Z",
+        "action": "ITEM_DISCOVERED_ON_DISK_NEW",
+        "user": null,
+        "old_value": null,
+        "new_value": "cs:062dcd9c1eba85ed73845fcb02a862ef",
+        "details": null
+      },
+      {
+        "timestamp": "2025-06-11T12:23:30.717007Z",
+        "action": "MODIFIED_ON_FILESYSTEM",
+        "user": null,
+        "old_value": "PrevCS:{'main': '062dcd9c1eba85ed73845fcb02a862ef', 'desc': None} | PrevStatus:new",
+        "new_value": "NewCS:03564387ff1c4efc391214ff1a7b1728|None",
+        "details": "Reasons: main_content_checksum_mismatch"
+      },
+      {
+        "timestamp": "2025-06-11T12:36:36.550675Z",
+        "action": "MODIFIED_ON_FILESYSTEM",
+        "user": null,
+        "old_value": "PrevCS:{'main': '03564387ff1c4efc391214ff1a7b1728', 'desc': None} | PrevStatus:changed",
+        "new_value": "NewCS:2f8b0a93ebab00b2ea0c325ac22180f2|None",
+        "details": "Reasons: main_content_checksum_mismatch"
+      },
+      {
+        "timestamp": "2025-06-11T12:48:43.937795Z",
+        "action": "MODIFIED_ON_FILESYSTEM",
+        "user": null,
+        "old_value": "PrevCS:{'main': '2f8b0a93ebab00b2ea0c325ac22180f2', 'desc': None} | PrevStatus:changed",
+        "new_value": "NewCS:33297c2eb3394ea6cd288f4fff66ff11|None",
+        "details": "Reasons: main_content_checksum_mismatch"
+      },
+      {
+        "timestamp": "2025-06-11T13:07:18.260092Z",
+        "action": "MODIFIED_ON_FILESYSTEM",
+        "user": null,
+        "old_value": "PrevCS:{'main': '33297c2eb3394ea6cd288f4fff66ff11', 'desc': None} | PrevStatus:changed",
+        "new_value": "NewCS:c4d197e8a14e63b5eb33478978769699|None",
+        "details": "Reasons: main_content_checksum_mismatch"
+      },
+      {
+        "timestamp": "2025-06-11T17:01:46.854321Z",
+        "action": "MODIFIED_ON_FILESYSTEM",
+        "user": null,
+        "old_value": "PrevCS:{'main': 'c4d197e8a14e63b5eb33478978769699', 'desc': None} | PrevStatus:changed",
+        "new_value": "NewCS:67882fad71ecb8cdb20446940cf06243|None",
+        "details": "Reasons: main_content_checksum_mismatch"
+      }
+    ],
+    "status": "changed",
+    "parent_type_uri": "type://presentation",
+    "definition_file_path": "presentation/section_4_How/section_4_How.md",
+    "content": "# Section 4: How\n\nStructure your data\nDescribe your data\nWork and Approve your data\n\nWe use a 3 different types of files:\n\nThe Type\nUsed to describe a type of Resource that makes sense for this project. Can be Characters, Locations, Dialogs, anything that makes sense for your business logic.\n\nThe Resource\nThe entity, the subject of a type, for example a Character\n\nThe Asset\nA file that is produced or used as a reference within a Resource.\n\nEasy, and very flexible.\n\nNow the MCP server can be added to the agent.\n\nWe develop this server to sit on top of the data and help us follow up the project, link items, and approve items.\n\n\nThe 2 super powers brought by AI\nApproving things\nStatus reports, Meetings\n\nThat's where AI shines, because this kind of things are very hard to code with our traditionnal tools and technics. But with their reasoning, LLMs can simply play a huge role into our processes.\n\nPower 1 - Complex Approvals\nImagine a situation where you have a team in place. The boss care a lot about the Characters and their back stories. Complex approval strategies are not a problem anymore.\n\nPower 2 - Meeting reports\nFilling in meeting transcripts and status check.\nWe consider that meetings should actually serve a purpose :)\nSo we have integratied a status report tool that is actually creating resources within you project directly. So statuses are really part of your data, and can be analyzed properly to generate a proper follow up.\n\n## Linked Resources\n- [next](presentation://section_5_Games)\n",
+    "links": [
+      {
+        "target_uri": "presentation://section_5_Games",
+        "label": "next"
+      }
+    ],
+    "linked_from": [
+      {
+        "target_uri": "presentation://section_3_What",
+        "label": "section_3_What"
+      }
+    ]
+  },
+  "asset://status_report/status_report_20250611_113054.md": {
+    "uri": "asset://status_report/status_report_20250611_113054.md",
+    "path": "status_report/status_report_20250611_113054.md",
+    "name": "status_report_20250611_113054.md",
+    "item_type": "Asset",
+    "checksum": "76a249c3f1ddf6274542dd4c96ba9ccd",
+    "change_log": [
+      {
+        "timestamp": "2025-06-11T11:43:04.389855Z",
+        "action": "ITEM_DISCOVERED_ON_DISK_NEW",
+        "user": null,
+        "old_value": null,
+        "new_value": "cs:76a249c3f1ddf6274542dd4c96ba9ccd",
+        "details": null
+      }
+    ],
+    "status": "new",
+    "parent_type_uri": "type://status_report",
+    "parent_resource_uri": null,
+    "is_markdown_asset": true,
+    "description_file_path": null,
+    "description_content": "# Status Report - 2025-06-11 11:30\n\nGenerated: 2025-06-11T11:30:54.761531+00:00\n\n## Overall Status Summary\n- Total Active Items: 6\n- Items Pending Approval: N/A\n- Recent Changes (Last 7 days): N/A\n\n",
+    "description_checksum": null
+  },
+  "asset://presentation/section_4_How/images/VibeLogicOverview.png": {
+    "uri": "asset://presentation/section_4_How/images/VibeLogicOverview.png",
+    "path": "presentation/section_4_How/images/VibeLogicOverview.png",
+    "name": "VibeLogicOverview.png",
+    "item_type": "Asset",
+    "checksum": "a2566156e3b4072a25d7aa8b0683f0d7",
+    "change_log": [
+      {
+        "timestamp": "2025-06-11T14:33:21.564666Z",
+        "action": "ITEM_DISCOVERED_ON_DISK_NEW",
+        "user": null,
+        "old_value": null,
+        "new_value": "cs:a2566156e3b4072a25d7aa8b0683f0d7",
+        "details": null
+      }
+    ],
+    "status": "new",
+    "parent_type_uri": "type://presentation",
+    "parent_resource_uri": "presentation://section_4_How",
+    "is_markdown_asset": false,
+    "description_file_path": "presentation/section_4_How/images/VibeLogicOverview.png.md",
+    "description_content": "# Description for Asset: VibeLogicOverview.png\n",
+    "description_checksum": "3e6a2737e8ee1abf53174da51b18f05d"
+  },
+  "type://status_report": {
+    "uri": "type://status_report",
+    "path": "status_report",
+    "name": "status_report",
+    "item_type": "ResourceTypeDefinition",
+    "checksum": "d363918387a9b57be4be02dabf5cf9bd",
+    "change_log": [
+      {
+        "timestamp": "2025-06-11T11:43:04.389892Z",
+        "action": "ITEM_DISCOVERED_ON_DISK_NEW",
+        "user": null,
+        "old_value": null,
+        "new_value": "cs:d363918387a9b57be4be02dabf5cf9bd",
+        "details": null
+      }
+    ],
+    "status": "new",
+    "definition_file_path": "status_report/status_report.md",
+    "content": "# status_report\nImplicit Type.\n"
+  },
+  "asset://presentation/section_3_What/Ryman.png": {
+    "uri": "asset://presentation/section_3_What/Ryman.png",
+    "path": "presentation/section_3_What/Ryman.png",
+    "name": "Ryman.png",
+    "item_type": "Asset",
+    "checksum": "985289f88ebb4884da840571db9132e5",
+    "change_log": [
+      {
+        "timestamp": "2025-06-11T11:43:04.389726Z",
+        "action": "ITEM_DISCOVERED_ON_DISK_NEW",
+        "user": null,
+        "old_value": null,
+        "new_value": "cs:985289f88ebb4884da840571db9132e5",
+        "details": null
+      },
+      {
+        "timestamp": "2025-06-11T12:23:30.717148Z",
+        "action": "MODIFIED_ON_FILESYSTEM",
+        "user": null,
+        "old_value": "PrevCS:{'main': '985289f88ebb4884da840571db9132e5', 'desc': 'bea55d50ce238b7b6d9f12580792b5f7'} | PrevStatus:new",
+        "new_value": "NewCS:985289f88ebb4884da840571db9132e5|fb1dae885dd93a99cf400e12375031b3",
+        "details": "Reasons: description_checksum_mismatch"
+      }
+    ],
+    "status": "changed",
+    "parent_type_uri": "type://presentation",
+    "parent_resource_uri": "presentation://section_3_What",
+    "is_markdown_asset": false,
+    "description_file_path": "/Users/rich/Projects/Workshop_Vibe_coding/data/presentation/section_3_What/Ryman.png.md",
+    "description_content": "# Description for Asset: Ryman.png\n\nA white frame\n\n\u00ab Robert Ryman: Large-Small, Thick-Thin, Light Reflecting, Light Aborbing 23 \u00bb \u00a9 CC/Paul Keller\n",
+    "description_checksum": "fb1dae885dd93a99cf400e12375031b3"
+  },
+  "presentation://section_5_Games": {
+    "uri": "presentation://section_5_Games",
+    "path": "presentation/section_5_Games",
+    "name": "section_5_Games",
+    "item_type": "Resource",
+    "checksum": "1ec2de820d906672e4dc467e4ebfb2ba",
+    "change_log": [
+      {
+        "timestamp": "2025-06-11T17:00:41.752575Z",
+        "action": "ITEM_DISCOVERED_ON_DISK_NEW",
+        "user": null,
+        "old_value": null,
+        "new_value": "cs:1ec2de820d906672e4dc467e4ebfb2ba",
+        "details": null
+      },
+      {
+        "timestamp": "2025-06-11T17:01:16.934717Z",
+        "action": "STATUS_PROPAGATED_FROM_CHILD_ASSET",
+        "user": null,
+        "old_value": "new",
+        "new_value": "changed",
+        "details": "Asset 'MakingGames.png' (asset://presentation/section_5_Games/MakingGames.png) status is CHANGED."
+      }
+    ],
+    "status": "changed",
+    "parent_type_uri": "type://presentation",
+    "definition_file_path": "presentation/section_5_Games/section_5_Games.md",
+    "content": "last section\n\nWe are here because we want to make games.\n\nSo with this new tools, we are starting to consider the business with a different angle.\n\n",
     "links": [],
-    "linked_from": []
+    "linked_from": [
+      {
+        "target_uri": "presentation://section_4_How",
+        "label": "section_4_How"
+      }
+    ]
+  },
+  "asset://presentation/section_4_How/images/mcpview.png": {
+    "uri": "asset://presentation/section_4_How/images/mcpview.png",
+    "path": "presentation/section_4_How/images/mcpview.png",
+    "name": "mcpview.png",
+    "item_type": "Asset",
+    "checksum": "020d862ac6770e039e09a4acb71353f2",
+    "change_log": [
+      {
+        "timestamp": "2025-06-11T12:49:06.559672Z",
+        "action": "ITEM_DISCOVERED_ON_DISK_NEW",
+        "user": null,
+        "old_value": null,
+        "new_value": "cs:020d862ac6770e039e09a4acb71353f2",
+        "details": null
+      }
+    ],
+    "status": "new",
+    "parent_type_uri": "type://presentation",
+    "parent_resource_uri": "presentation://section_4_How",
+    "is_markdown_asset": false,
+    "description_file_path": "presentation/section_4_How/images/mcpview.png.md",
+    "description_content": "# Description for Asset: mcpview.png\n\nscreenshot of the mcp server window within Roo",
+    "description_checksum": "2c7278161a40a850a438c8b25971a135"
   },
   "type://presentation": {
     "uri": "type://presentation",
     "path": "presentation",
     "name": "presentation",
     "item_type": "ResourceTypeDefinition",
-    "checksum": "bfd4881b54b3195de73cbd09ba13b07f",
+    "checksum": "4124a4d346727a8cbd32b8aa20d2d53e",
     "change_log": [
       {
         "timestamp": "2025-06-09T12:53:57.466093Z",
@@ -36,33 +631,334 @@
         "old_value": null,
         "new_value": "cs:bfd4881b54b3195de73cbd09ba13b07f",
         "details": null
+      },
+      {
+        "timestamp": "2025-06-11T11:43:04.390193Z",
+        "action": "MODIFIED_ON_FILESYSTEM",
+        "user": null,
+        "old_value": "PrevCS:{'main': 'bfd4881b54b3195de73cbd09ba13b07f', 'desc': None} | PrevStatus:new",
+        "new_value": "NewCS:4124a4d346727a8cbd32b8aa20d2d53e|None",
+        "details": "Reasons: main_content_checksum_mismatch"
       }
     ],
-    "status": "new",
+    "status": "changed",
     "definition_file_path": "presentation/presentation.md",
-    "content": "This regroups all the sections for the presentation\n\n"
+    "content": "This is a 20min presentation (+ up to 20min Q&A) design for the XP Gaming event in Toronto.\n\n- [Section 1: Hook](section_1_Hook/section_1_Hook.md)\n- [Section 2: Why](section_2_Why/section_2_Why.md)\n- [Section 3: What](section_3_What/section_3_What.md)\n- [Section 4: How](section_4_How/section_4_How.md)\n"
   },
-  "presentation://section_2_Why": {
-    "uri": "presentation://section_2_Why",
-    "path": "presentation/section_2_Why",
-    "name": "section_2_Why",
-    "item_type": "Resource",
-    "checksum": "091b6ac293f003289cde240d7e82e812",
+  "asset://presentation/section_2_Why/deep-blue-kasparov.jpg": {
+    "uri": "asset://presentation/section_2_Why/deep-blue-kasparov.jpg",
+    "path": "presentation/section_2_Why/deep-blue-kasparov.jpg",
+    "name": "deep-blue-kasparov.jpg",
+    "item_type": "Asset",
+    "checksum": "ba9bc26cca3a1e4d7b91912f8f798969",
     "change_log": [
       {
-        "timestamp": "2025-06-09T12:53:57.466125Z",
+        "timestamp": "2025-06-11T11:02:43.974910Z",
         "action": "ITEM_DISCOVERED_ON_DISK_NEW",
         "user": null,
         "old_value": null,
-        "new_value": "cs:091b6ac293f003289cde240d7e82e812",
+        "new_value": "cs:ba9bc26cca3a1e4d7b91912f8f798969",
         "details": null
       }
     ],
     "status": "new",
     "parent_type_uri": "type://presentation",
-    "definition_file_path": "presentation/section_2_Why/section_2_Why.md",
-    "content": "# SECTION 2: \\\"THE WHY\\\" - Challenges & Opportunities (The Chess Analogy)\n\nTo understand our problem, let's look at what happened in the world of chess.\n\n(short pause)\n\nAI has been beating the best human players for a long time. Think back to the 90s \u2013 Kasparov competing against Deep Blue. Since then, AI has become the undisputed world chess champion. The best chess AIs don't even need to study human games anymore to improve.\n\n(pause)\n\nBut here\u2019s the interesting part: even though AI is the best player, more people are playing chess than ever before!\n\n(short pause)\n\nWhy? Because chess players use AI every day. Not necessarily because AI is the most *fun* opponent, but because it's the **best way to get better at chess**. They use AI to practice, to deeply analyze their games, and to prepare their strategies for playing against other humans.\n(pause)\nThe chess community accepted AI as a powerful training partner, an essential tool for improvement... not an enemy.\n\nThis chess story is a great lesson for all of us in creative fields. We should see AI as an opportunity \u2013 an opportunity to learn, to get better at what we are already good at, what we like to do.\n\n(short pause)\n\nNow that's not the only interesting aspect of AI in chess. Think about how those chess programs evolved: before modern AI, like LLMs and Transformers, the best chess engines were built with millions of lines of complex, hand-crafted code. Now? It's more like one big \"brain\" that largely trains itself on the game.\n\n(short pause)\n\nWhy? Because even if it's a lot more complexe to train and build a big ai brain, using it is quite trivial and  actually easy to manipulate and control. It's a lot easier than to write millions of lines of code.\n\n(short pause)\n\nYes, behind the scene, this new approach is a lot more efficient, and also a lot more powerful. The beauty of it: it can adapt to all our existing tools. From the 3D tools to Spreadsheets, or any form of data, it will be a lot easier to use as we will be able to prompt the AI to do what we want on any form of data.\n\n(short pause)\n\nBut yes, there\u2019s a lot of worry right now, especially in video games. These AIs can create things that seem as good as, or even better than, what some humans can do\u2026 just like in chess.\n\n(short pause)\n\nSo the big question is: how do we use AI constructively, and stay in control?\n\n(significant pause)",
-    "links": [],
+    "parent_resource_uri": "presentation://section_2_Why",
+    "is_markdown_asset": false,
+    "description_file_path": "/Users/rich/Projects/Workshop_Vibe_coding/data/presentation/section_2_Why/deep-blue-kasparov.jpg.md",
+    "description_content": "# Description for Asset: deep-blue-kasparov.jpg\n",
+    "description_checksum": "258a7466b3eef8b8beee4d008ae0f5df"
+  },
+  "asset://presentation/section_4_How/images/approval.png": {
+    "uri": "asset://presentation/section_4_How/images/approval.png",
+    "path": "presentation/section_4_How/images/approval.png",
+    "name": "approval.png",
+    "item_type": "Asset",
+    "checksum": "1f0f2862aedc75c43835e711d7e27637",
+    "change_log": [
+      {
+        "timestamp": "2025-06-11T12:49:06.559862Z",
+        "action": "ITEM_DISCOVERED_ON_DISK_NEW",
+        "user": null,
+        "old_value": null,
+        "new_value": "cs:1f0f2862aedc75c43835e711d7e27637",
+        "details": null
+      }
+    ],
+    "status": "new",
+    "parent_type_uri": "type://presentation",
+    "parent_resource_uri": "presentation://section_4_How",
+    "is_markdown_asset": false,
+    "description_file_path": "presentation/section_4_How/images/approval.png.md",
+    "description_content": "# Description for Asset: approval.png\n",
+    "description_checksum": "b506b816160a1ed615ac0bfb5cbac06b"
+  },
+  "asset://presentation/section_3_What/vibelogic.png": {
+    "uri": "asset://presentation/section_3_What/vibelogic.png",
+    "path": "presentation/section_3_What/vibelogic.png",
+    "name": "vibelogic.png",
+    "item_type": "Asset",
+    "checksum": "a47a8a78205ac5dd0026398d23e3c055",
+    "change_log": [
+      {
+        "timestamp": "2025-06-11T13:41:03.473093Z",
+        "action": "ITEM_DISCOVERED_ON_DISK_NEW",
+        "user": null,
+        "old_value": null,
+        "new_value": "cs:a47a8a78205ac5dd0026398d23e3c055",
+        "details": null
+      },
+      {
+        "timestamp": "2025-06-11T14:33:21.565391Z",
+        "action": "MODIFIED_ON_FILESYSTEM",
+        "user": null,
+        "old_value": "PrevCS:{'main': 'a47a8a78205ac5dd0026398d23e3c055', 'desc': 'b9ef43e7b1131d270625806efab4c7e5'} | PrevStatus:new",
+        "new_value": "NewCS:a47a8a78205ac5dd0026398d23e3c055|574a3df886373867f0a62e66a693f015",
+        "details": "Reasons: description_checksum_mismatch"
+      }
+    ],
+    "status": "changed",
+    "parent_type_uri": "type://presentation",
+    "parent_resource_uri": "presentation://section_3_What",
+    "is_markdown_asset": false,
+    "description_file_path": "/Users/rich/Projects/Workshop_Vibe_coding/data/presentation/section_3_What/vibelogic.png.md",
+    "description_content": "# Description for Asset: vibelogic.png\n\nA view of the current presentation in the graph\n",
+    "description_checksum": "574a3df886373867f0a62e66a693f015"
+  },
+  "asset://presentation/section_4_How/images/statustype.png": {
+    "uri": "asset://presentation/section_4_How/images/statustype.png",
+    "path": "presentation/section_4_How/images/statustype.png",
+    "name": "statustype.png",
+    "item_type": "Asset",
+    "checksum": "61dd0888eb30e1c7a3f3b936a2af7126",
+    "change_log": [
+      {
+        "timestamp": "2025-06-11T14:33:21.564648Z",
+        "action": "ITEM_DISCOVERED_ON_DISK_NEW",
+        "user": null,
+        "old_value": null,
+        "new_value": "cs:61dd0888eb30e1c7a3f3b936a2af7126",
+        "details": null
+      },
+      {
+        "timestamp": "2025-06-11T17:00:41.753089Z",
+        "action": "MODIFIED_ON_FILESYSTEM",
+        "user": null,
+        "old_value": "PrevCS:{'main': '61dd0888eb30e1c7a3f3b936a2af7126', 'desc': 'd10a377fcca3735617c1489a873a3e0b'} | PrevStatus:new",
+        "new_value": "NewCS:61dd0888eb30e1c7a3f3b936a2af7126|ae78fb88571cdd5ac19c8bfdddf214c8",
+        "details": "Reasons: description_checksum_mismatch"
+      }
+    ],
+    "status": "changed",
+    "parent_type_uri": "type://presentation",
+    "parent_resource_uri": "presentation://section_4_How",
+    "is_markdown_asset": false,
+    "description_file_path": "/Users/rich/Projects/Workshop_Vibe_coding/data/presentation/section_4_How/images/statustype.png.md",
+    "description_content": "# Description for Asset: statustype.png\n\nWhat the default status type gives us.",
+    "description_checksum": "ae78fb88571cdd5ac19c8bfdddf214c8"
+  },
+  "asset://presentation/section_4_How/images/types.png": {
+    "uri": "asset://presentation/section_4_How/images/types.png",
+    "path": "presentation/section_4_How/images/types.png",
+    "name": "types.png",
+    "item_type": "Asset",
+    "checksum": "672ecb9e5c40c4dee28624254444e9b0",
+    "change_log": [
+      {
+        "timestamp": "2025-06-11T12:58:55.622521Z",
+        "action": "ITEM_DISCOVERED_ON_DISK_NEW",
+        "user": null,
+        "old_value": null,
+        "new_value": "cs:672ecb9e5c40c4dee28624254444e9b0",
+        "details": null
+      },
+      {
+        "timestamp": "2025-06-11T13:07:18.259032Z",
+        "action": "MODIFIED_ON_FILESYSTEM",
+        "user": null,
+        "old_value": "PrevCS:{'main': '672ecb9e5c40c4dee28624254444e9b0', 'desc': 'f493fd62f5fcce14a733dd8734c843b7'} | PrevStatus:new",
+        "new_value": "NewCS:672ecb9e5c40c4dee28624254444e9b0|622a6cd9c9b9d0159af3e1f7a12f37f8",
+        "details": "Reasons: description_checksum_mismatch"
+      }
+    ],
+    "status": "changed",
+    "parent_type_uri": "type://presentation",
+    "parent_resource_uri": "presentation://section_4_How",
+    "is_markdown_asset": false,
+    "description_file_path": "/Users/rich/Projects/Workshop_Vibe_coding/data/presentation/section_4_How/images/types.png.md",
+    "description_content": "# Description for Asset: types.png\n\nExample taken from the project City Cleaner AI\n\nTypes - Resources - Assets\n",
+    "description_checksum": "622a6cd9c9b9d0159af3e1f7a12f37f8"
+  },
+  "asset://presentation/section_4_How/images/approvetool.png": {
+    "uri": "asset://presentation/section_4_How/images/approvetool.png",
+    "path": "presentation/section_4_How/images/approvetool.png",
+    "name": "approvetool.png",
+    "item_type": "Asset",
+    "checksum": "33c482659e8c993466ab4aecfca907f9",
+    "change_log": [
+      {
+        "timestamp": "2025-06-11T12:49:06.559830Z",
+        "action": "ITEM_DISCOVERED_ON_DISK_NEW",
+        "user": null,
+        "old_value": null,
+        "new_value": "cs:33c482659e8c993466ab4aecfca907f9",
+        "details": null
+      }
+    ],
+    "status": "new",
+    "parent_type_uri": "type://presentation",
+    "parent_resource_uri": "presentation://section_4_How",
+    "is_markdown_asset": false,
+    "description_file_path": "presentation/section_4_How/images/approvetool.png.md",
+    "description_content": "# Description for Asset: approvetool.png\n",
+    "description_checksum": "a621a6c54f29ec717b7d121a63e33552"
+  },
+  "presentation://section_1_Hook": {
+    "uri": "presentation://section_1_Hook",
+    "path": "presentation/section_1_Hook",
+    "name": "section_1_Hook",
+    "item_type": "Resource",
+    "checksum": "be9cf635df479cc93b5bd110f8911fa0",
+    "change_log": [
+      {
+        "timestamp": "2025-06-09T12:53:57.465926Z",
+        "action": "ITEM_DISCOVERED_ON_DISK_NEW",
+        "user": null,
+        "old_value": null,
+        "new_value": "cs:6a894a6bc0ae27f8c5520efb39ad4456",
+        "details": null
+      },
+      {
+        "timestamp": "2025-06-09T12:59:50.782637Z",
+        "action": "MODIFIED_ON_FILESYSTEM",
+        "user": null,
+        "old_value": "PrevCS:{'main': '6a894a6bc0ae27f8c5520efb39ad4456', 'desc': None} | PrevStatus:new",
+        "new_value": "NewCS:c80ffc3e568b466748f062afa0aed270|None",
+        "details": "Reasons: main_content_checksum_mismatch"
+      },
+      {
+        "timestamp": "2025-06-09T13:11:48.447709Z",
+        "action": "MODIFIED_ON_FILESYSTEM",
+        "user": null,
+        "old_value": "PrevCS:{'main': 'c80ffc3e568b466748f062afa0aed270', 'desc': None} | PrevStatus:changed",
+        "new_value": "NewCS:dd4293a24b5963d9f38cd9ecc980fe90|None",
+        "details": "Reasons: main_content_checksum_mismatch"
+      },
+      {
+        "timestamp": "2025-06-09T13:13:18.208737Z",
+        "action": "ITEM_APPROVED",
+        "user": "web_ui_user",
+        "old_value": "changed",
+        "new_value": "approved",
+        "details": "Resource Approved via VibeLogic tool."
+      },
+      {
+        "timestamp": "2025-06-09T13:13:35.112869Z",
+        "action": "LLM_SUGGESTED_LINKS_PROCESSED",
+        "user": null,
+        "old_value": null,
+        "new_value": null,
+        "details": "2 links added/updated."
+      },
+      {
+        "timestamp": "2025-06-09T13:13:35.113074Z",
+        "action": "TOOL_UPDATED_APPROVED_ITEM_CONTENT_WITH_LLM_SUGGESTIONS",
+        "user": null,
+        "old_value": null,
+        "new_value": null,
+        "details": null
+      },
+      {
+        "timestamp": "2025-06-09T13:43:56.450243Z",
+        "action": "ITEM_LINK_REMOVED_BY_SERVICE",
+        "user": null,
+        "old_value": "approved",
+        "new_value": "changed",
+        "details": "Link removed to presentation://section_3_What"
+      },
+      {
+        "timestamp": "2025-06-09T13:43:56.979109Z",
+        "action": "MODIFIED_ON_FILESYSTEM",
+        "user": null,
+        "old_value": "PrevCS:{'main': 'affead024834949851be2fa278812e8f', 'desc': None} | PrevStatus:changed",
+        "new_value": "NewCS:f41dfcb38f452b9ad5731cc0110caefd|None",
+        "details": "Reasons: main_content_checksum_mismatch"
+      },
+      {
+        "timestamp": "2025-06-09T13:43:56.996041Z",
+        "action": "STRUCTURED_LINKS_UPDATED_FROM_CONTENT",
+        "user": null,
+        "old_value": "['presentation://evolution_of_ai_capabilities', 'presentation://section_2_Why']",
+        "new_value": "['presentation://evolution_of_ai_capabilities', 'presentation://section_2_Why', 'presentation://section_3_What']",
+        "details": null
+      },
+      {
+        "timestamp": "2025-06-09T13:44:09.878798Z",
+        "action": "MODIFIED_ON_FILESYSTEM",
+        "user": null,
+        "old_value": "PrevCS:{'main': 'f41dfcb38f452b9ad5731cc0110caefd', 'desc': None} | PrevStatus:changed",
+        "new_value": "NewCS:00ac472c352b3c278ca72759d25d1eff|None",
+        "details": "Reasons: main_content_checksum_mismatch"
+      },
+      {
+        "timestamp": "2025-06-09T13:44:09.896031Z",
+        "action": "STRUCTURED_LINKS_UPDATED_FROM_CONTENT",
+        "user": null,
+        "old_value": "['presentation://evolution_of_ai_capabilities', 'presentation://section_2_Why']",
+        "new_value": "['presentation://evolution_of_ai_capabilities', 'presentation://section_2_Why', 'presentation://section_3_What']",
+        "details": null
+      },
+      {
+        "timestamp": "2025-06-09T13:45:19.344530Z",
+        "action": "MODIFIED_ON_FILESYSTEM",
+        "user": null,
+        "old_value": "PrevCS:{'main': '00ac472c352b3c278ca72759d25d1eff', 'desc': None} | PrevStatus:changed",
+        "new_value": "NewCS:ffe52b9559959623dbadf282789616fa|None",
+        "details": "Reasons: main_content_checksum_mismatch"
+      },
+      {
+        "timestamp": "2025-06-09T13:45:19.357437Z",
+        "action": "STRUCTURED_LINKS_UPDATED_FROM_CONTENT",
+        "user": null,
+        "old_value": "['presentation://evolution_of_ai_capabilities', 'presentation://section_2_Why', 'presentation://section_3_What']",
+        "new_value": "['presentation://evolution_of_ai_capabilities', 'presentation://section_2_Why']",
+        "details": null
+      },
+      {
+        "timestamp": "2025-06-11T02:49:20.217411Z",
+        "action": "MODIFIED_ON_FILESYSTEM",
+        "user": null,
+        "old_value": "PrevCS:{'main': 'ffe52b9559959623dbadf282789616fa', 'desc': None} | PrevStatus:changed",
+        "new_value": "NewCS:bfd649c66c65e3dddfa29dda703aaf2c|None",
+        "details": "Reasons: main_content_checksum_mismatch"
+      },
+      {
+        "timestamp": "2025-06-11T11:02:43.979536Z",
+        "action": "MODIFIED_ON_FILESYSTEM",
+        "user": null,
+        "old_value": "PrevCS:{'main': 'bfd649c66c65e3dddfa29dda703aaf2c', 'desc': None} | PrevStatus:changed",
+        "new_value": "NewCS:be9cf635df479cc93b5bd110f8911fa0|None",
+        "details": "Reasons: main_content_checksum_mismatch"
+      },
+      {
+        "timestamp": "2025-06-11T11:02:43.988697Z",
+        "action": "STRUCTURED_LINKS_UPDATED_FROM_CONTENT",
+        "user": null,
+        "old_value": "['presentation://evolution_of_ai_capabilities', 'presentation://section_2_Why']",
+        "new_value": "['presentation://section_2_Why']",
+        "details": null
+      }
+    ],
+    "status": "changed",
+    "parent_type_uri": "type://presentation",
+    "definition_file_path": "presentation/section_1_Hook/section_1_Hook.md",
+    "content": "# SECTION 1: Hook / Introduction - Your Vision & The AI Context\n\nI'm the kind of person, that if given a 5 minute task, I'll make a tool to make the task in 5s, but that'll take me 5hours\n\nI'm always thinking that Computers are tools, to automate the repetive tasks.\n\nBut today they are a lot more than that\n(short pause)\nToday they demonstrate cognitive capabitilies, and they make incredible code, incredible art, incredible animations, incredible music. They are also taking over robotics.\n\n(short pause)\n\nIf they do all the work what's left for us to do?\n\n(short pause)\n\nThe first time I started working with AI was at electronic arts on the project Tetris. \n\nWe decided to train an AI to predict your next move. \n\nThat\u2019s a bit like today\u2019s AI predicting the next word in a sentence. \n\nThis isn't new; we've been doing that for years. It's just that now, we're getting very good at it.\n\n(short pause)\n\nSo, with this powerful automation\u2026 how do we stay in control and use this amazing power, instead of feeling overwhelmed by it?\n\n(significant pause)\n\n---\n## Linked Resources\n- [presentation://section_2_Why](presentation://section_2_Why)\n",
+    "links": [
+      {
+        "target_uri": "presentation://section_2_Why",
+        "label": null
+      }
+    ],
     "linked_from": []
   },
   "presentation://section_3_What": {
@@ -70,7 +966,7 @@
     "path": "presentation/section_3_What",
     "name": "section_3_What",
     "item_type": "Resource",
-    "checksum": "55aa8f4e2e62309a14af1f8b72f76230",
+    "checksum": "43acfe0703035defc4422d4d31e0bb22",
     "change_log": [
       {
         "timestamp": "2025-06-09T12:53:57.466150Z",
@@ -79,13 +975,168 @@
         "old_value": null,
         "new_value": "cs:55aa8f4e2e62309a14af1f8b72f76230",
         "details": null
+      },
+      {
+        "timestamp": "2025-06-09T12:59:50.782863Z",
+        "action": "MODIFIED_ON_FILESYSTEM",
+        "user": null,
+        "old_value": "PrevCS:{'main': '55aa8f4e2e62309a14af1f8b72f76230', 'desc': None} | PrevStatus:new",
+        "new_value": "NewCS:5591260d3686f3b2022b0fb60e9d44a5|None",
+        "details": "Reasons: main_content_checksum_mismatch"
+      },
+      {
+        "timestamp": "2025-06-11T02:57:58.194917Z",
+        "action": "MODIFIED_ON_FILESYSTEM",
+        "user": null,
+        "old_value": "PrevCS:{'main': '5591260d3686f3b2022b0fb60e9d44a5', 'desc': None} | PrevStatus:changed",
+        "new_value": "NewCS:c8be5a9662be5154d3f267a0ee67e3e3|None",
+        "details": "Reasons: main_content_checksum_mismatch"
+      },
+      {
+        "timestamp": "2025-06-11T11:02:43.978442Z",
+        "action": "MODIFIED_ON_FILESYSTEM",
+        "user": null,
+        "old_value": "PrevCS:{'main': 'c8be5a9662be5154d3f267a0ee67e3e3', 'desc': None} | PrevStatus:changed",
+        "new_value": "NewCS:cb0585fcf479a28c583e37e5afaedbe6|None",
+        "details": "Reasons: main_content_checksum_mismatch"
+      },
+      {
+        "timestamp": "2025-06-11T11:43:04.390385Z",
+        "action": "MODIFIED_ON_FILESYSTEM",
+        "user": null,
+        "old_value": "PrevCS:{'main': 'cb0585fcf479a28c583e37e5afaedbe6', 'desc': None} | PrevStatus:changed",
+        "new_value": "NewCS:555b72a0ba5ab28cb7562cace1b939f9|None",
+        "details": "Reasons: main_content_checksum_mismatch"
+      },
+      {
+        "timestamp": "2025-06-11T12:23:30.716696Z",
+        "action": "MODIFIED_ON_FILESYSTEM",
+        "user": null,
+        "old_value": "PrevCS:{'main': '555b72a0ba5ab28cb7562cace1b939f9', 'desc': None} | PrevStatus:changed",
+        "new_value": "NewCS:acab088fa04765e5599b3303fdbfb07b|None",
+        "details": "Reasons: main_content_checksum_mismatch"
+      },
+      {
+        "timestamp": "2025-06-11T12:27:05.655343Z",
+        "action": "MODIFIED_ON_FILESYSTEM",
+        "user": null,
+        "old_value": "PrevCS:{'main': 'acab088fa04765e5599b3303fdbfb07b', 'desc': None} | PrevStatus:changed",
+        "new_value": "NewCS:fc9ea3bfa64449f18312f0210ca76bb8|None",
+        "details": "Reasons: main_content_checksum_mismatch"
+      },
+      {
+        "timestamp": "2025-06-11T14:33:21.565332Z",
+        "action": "MODIFIED_ON_FILESYSTEM",
+        "user": null,
+        "old_value": "PrevCS:{'main': 'fc9ea3bfa64449f18312f0210ca76bb8', 'desc': None} | PrevStatus:changed",
+        "new_value": "NewCS:43acfe0703035defc4422d4d31e0bb22|None",
+        "details": "Reasons: main_content_checksum_mismatch"
       }
     ],
-    "status": "new",
+    "status": "changed",
     "parent_type_uri": "type://presentation",
     "definition_file_path": "presentation/section_3_What/section_3_What.md",
-    "content": "# SECTION 3: \\\"THE WHAT\\\" - Your Solution (The Need for Description & Approval)\n\nWe need to understand what we are trying to achieve when we say, making a Game. Let's start smaller, with a simpler art form, like a painting.\n\nThink about modern art. Sometimes you see a plain white canvas in a museum, signed by an artist. Making a white canvas isn't technically hard.\n\n(short pause)\n\nBut it\u2019s there, signed. The artist\u2019s idea, their intent, their gift to the world, and their choice to show it \u2013 It is art because of the artist's will. \n\n(short pause)\n\nAI can paint the canvas, but who will sign it?\nWe need artists, coders, and other experts? \nAbsolutely, YES, to gather ideas, bring them to life, and to sign the canvas.\n\n(short pause)\n\nBeing an expert, in many ways, grants you the ability to **describe something precisely**. It's about truly knowing how that thing works. A director of photography sees and can describe light, shadow, and reflection in detail. A programmer sees and understands the logic within lines of code.\n\n(short pause)\n\nIt's this deep understanding, this ability to articulate the essence, that we need. We need experts to craft the detailed descriptions that will guide AI, to critique what AI produces against a well-defined creative intent, and ultimately, to put their name on the final work and take responsibility for it.\n(short pause)\n\nIt\u2019s the same with AI. Imagine an AI making an eight-hour movie from one command. That\u2019s impressive! But would you put your name on it without checking it, without agreeing it\u2019s what you wanted?\n\n(short pause)\n\nYou will see bad results from amateurs, willing to use AI to create something without any real understanding of what they are doing. And that is totally normal. But it will be unlikley for them to connect with an audience. They will sure be \nFor big projects, we need to spend hours looking, judging, and approving. A product is ready when the team agrees it\u2019s good, when they all back the creative idea.\n\nAnd that\u2019s just how creating things works. Think about making a movie. There are steps you *can't* skip, like making a storyboard. It\u2019s not just a task; it\u2019s a key part of defining the story.\n(short pause)\nAny project is really a collection of connected \"data\" or \"ingredients\" \u2013 characters, places, props, scripts, art ideas, references, lighting. This \"data\" is the real heart of the project.\n\nSo, for us creators using AI, two things are essential:\n(short pause)\nFirst, we need a way to **describe our ideas very clearly**. This clear description is what will guide the AI.\n(pause)\nSecond, we need to **always have access to, and control over, this descriptive data**. No temporary files that disappear. As professionals, we need to create this data, check it, improve it, and approve it.\n\nSo, I asked myself: What kind of tool, what way of working, could **help experts do their best work** with AI?\n(short pause)\nHow could we give them an easy and effective way to work together, while keeping control and being clear? How can a team look at their project data together, with everyone bringing their own expertise?\n\nAnswering these questions led me to develop an approach\u2026 a method I call VibeLogic.\n(short pause)\nIt\u2019s based on using the smart AI agents that are already on our computers and in the tools we use every day.\n(pause)\nThe main idea is to organize our work, our descriptions, so these AI agents can help us in the best way. The VibeLogic tool then helps **support this method**. It makes it easier to structure the data, and it gives a clear view of how things are organized and if they\u2019re approved. It\u2019s a **service** for experts, to help them with these needs.\n\n---\n",
-    "links": [],
-    "linked_from": []
+    "content": "# SECTION 3: \\\"THE WHAT\\\" - Your Solution (The Need for Description & Approval)\n\nSo, with AI being so powerful, do we still have to work?\n\nWell, I'm sorry but yes ... we still need artists, coders and all the expertise we can get.\n\n(short pause)\n\nWhy?\n \nA director of photography sees and can describe light, shadow, and reflection in minute detail. A programmer sees and understands the logic within lines of code.\n\nBeing an expert, in many ways, is about your ability to **describe something precisely**. It's about truly knowing the \"code\" of that something.\n\n(pause)\n\nIt's this deep understanding, this ability to articulate the essence, that we need. We need experts to craft the detailed descriptions that will guide AI, to critique what AI produces against a well-defined creative intent, and ultimately, to put their name on the final work and take responsibility for it.\n\n(pause)\n\nThink about modern art. Sometimes you see a plain white canvas in a museum, signed by an artist. Making a white canvas isn't technically hard.\n(short pause)\nBut it\u2019s there, signed. The artist\u2019s idea, their intent, their \"code\" for that piece, and their choice to show it \u2013 that\u2019s what makes it art. AI can paint the canvas, but who defines and defends the \"code\" behind it?\n\n\nIt\u2019s the same with AI. Imagine an AI making an eight-hour movie from one command. That\u2019s impressive! But would you put your name on it without checking it, without agreeing it\u2019s what you wanted?\n\n(short pause)\n\nFor big projects, we need to spend hours looking, judging, and approving. A product is ready when the team agrees it\u2019s good, when they all back the creative idea.\n\nAnd that\u2019s just how creating things works. Think about making a movie. There are steps you *can't* skip, like making a storyboard. It\u2019s not just a task; it\u2019s a key part of defining the story.\n(short pause)\nAny project is really a collection of connected \"data\" or \"ingredients\" \u2013 characters, places, props, scripts, art ideas, references, lighting. This \"data\" is the real heart of the project.\n\nSo, for us creators using AI, two things are essential:\n(short pause)\nFirst, we need a way to **describe our ideas very clearly**. This clear description is what will guide the AI.\n(pause)\nSecond, we need to **always have access to, and control over, this descriptive data**. No temporary files that disappear. As professionals, we need to create this data, check it, improve it, talk about it and approve it.\n\nSo, I asked myself: What kind of tool, what way of working, could **help experts do their best work** with AI?\n(short pause)\nHow could we give them an easy and effective way to work together, while keeping control and being clear? How can a team look at their project data together, with everyone bringing their own expertise?\n\nAnswering these questions led us to try a few different work methodology, and specifically to develop video games.\n\n(short pause)\n\nAi is a rapidly evolving field, and it's hard to keep up the pace, so we wanted to find a way that would be future proof, something that relied on AI but nothing specific.\n\nAs most people do, we still use the chat interface of Google Ai Studio. Any similar LLM provider would do the job.\n\nBut that requires a lot of manual cut and paste, and keeping the data together is quite challenging. Those chatbot are great for experimenting, and iterating on a subject, but it's not ideal when it comes to work and controlling your data.\n\nSo we decided to try using what coders uses to VibeCode. But not to write code.\n\nIf you haven't heard of Vibecode, it is this new low code strategy, where all the code is written by the ai, and you just talk and test.\n\nIt works within your Code editor, but we use it mainly for text files.\n\n(pause)\n\nThe main idea is to organize our work, our descriptions, so these AI agents can help us in the best way. \n\nIt works very well in many situations.\n\nAnd in order to make this even better, we created a MCP server that adds a layer of data control, data analysis and data relationship.\nThe MCP-VibeLogic and we start using it for absolutely everything we do.\n\nI used it to create this presentation for example.\n\nIt makes it easier to structure the data, and it gives a clear view of how things are organized, their relationship and also if they\u2019re approved.\n\n## Linked Resources\n- [next](presentation://section_4_How)\n",
+    "links": [
+      {
+        "target_uri": "presentation://section_4_How",
+        "label": "next"
+      }
+    ],
+    "linked_from": [
+      {
+        "target_uri": "presentation://section_2_Why",
+        "label": "section_2_Why"
+      }
+    ]
+  },
+  "presentation://section_2_Why": {
+    "uri": "presentation://section_2_Why",
+    "path": "presentation/section_2_Why",
+    "name": "section_2_Why",
+    "item_type": "Resource",
+    "checksum": "453aea514d480adef27fcdb93f116b99",
+    "change_log": [
+      {
+        "timestamp": "2025-06-09T12:53:57.466125Z",
+        "action": "ITEM_DISCOVERED_ON_DISK_NEW",
+        "user": null,
+        "old_value": null,
+        "new_value": "cs:091b6ac293f003289cde240d7e82e812",
+        "details": null
+      },
+      {
+        "timestamp": "2025-06-09T12:59:50.782926Z",
+        "action": "MODIFIED_ON_FILESYSTEM",
+        "user": null,
+        "old_value": "PrevCS:{'main': '091b6ac293f003289cde240d7e82e812', 'desc': None} | PrevStatus:new",
+        "new_value": "NewCS:105d33226dcb87b20ea1938e87b12f43|None",
+        "details": "Reasons: main_content_checksum_mismatch"
+      },
+      {
+        "timestamp": "2025-06-09T13:12:09.121736Z",
+        "action": "MODIFIED_ON_FILESYSTEM",
+        "user": null,
+        "old_value": "PrevCS:{'main': '105d33226dcb87b20ea1938e87b12f43', 'desc': None} | PrevStatus:changed",
+        "new_value": "NewCS:5947305fcce15f2a8b4e36152e235f97|None",
+        "details": "Reasons: main_content_checksum_mismatch"
+      },
+      {
+        "timestamp": "2025-06-09T13:21:38.355525Z",
+        "action": "ITEM_APPROVED",
+        "user": "web_ui_user",
+        "old_value": "changed",
+        "new_value": "approved",
+        "details": "Resource Approved via VibeLogic tool."
+      },
+      {
+        "timestamp": "2025-06-09T13:21:50.949453Z",
+        "action": "LLM_SUGGESTED_LINKS_PROCESSED",
+        "user": null,
+        "old_value": null,
+        "new_value": null,
+        "details": "4 links added/updated."
+      },
+      {
+        "timestamp": "2025-06-09T13:21:50.949723Z",
+        "action": "TOOL_UPDATED_APPROVED_ITEM_CONTENT_WITH_LLM_SUGGESTIONS",
+        "user": null,
+        "old_value": null,
+        "new_value": null,
+        "details": null
+      },
+      {
+        "timestamp": "2025-06-11T11:02:43.980597Z",
+        "action": "MODIFIED_ON_FILESYSTEM",
+        "user": null,
+        "old_value": "PrevCS:{'main': '6c777856ccd36d02beee47c8ee9b09a3', 'desc': None} | PrevStatus:approved",
+        "new_value": "NewCS:453aea514d480adef27fcdb93f116b99|None",
+        "details": "Reasons: main_content_checksum_mismatch"
+      },
+      {
+        "timestamp": "2025-06-11T11:02:43.989344Z",
+        "action": "STRUCTURED_LINKS_UPDATED_FROM_CONTENT",
+        "user": null,
+        "old_value": "['presentation://ai_in_game_development_concerns', 'presentation://evolution_of_ai_capabilities', 'presentation://maintaining_human_control_with_ai', 'presentation://section_3_What', 'presentation://strategies_for_ai_collaboration']",
+        "new_value": "['presentation://section_3_What']",
+        "details": null
+      }
+    ],
+    "status": "changed",
+    "parent_type_uri": "type://presentation",
+    "definition_file_path": "presentation/section_2_Why/section_2_Why.md",
+    "content": "# SECTION 2: \\\"THE WHY\\\" - Challenges & Opportunities (The Chess Analogy)\n\nSo, how do we handle this change? Well, let's look at what happened in the world of chess.\n\n(short pause)\n\nAI has been beating the best human players for a long time. Think back to the 90s \u2013 Kasparov competing against Deep Blue. Since then, AI has become the undisputed world chess champion. The best chess AIs don't even need to study human games anymore to improve.\n(pause)\n\nBut here\u2019s the interesting part: even though AI is the best player, more people are playing chess than ever before!\n(short pause)\nWhy? Because chess players use AI every day. Not necessarily because AI is the most *fun* opponent, but because it's the **best way to get better at chess**. They use AI to practice, to deeply analyze their games, and to prepare their strategies for playing against other humans.\n(pause)\nThe chess community accepted AI as a powerful training partner, an essential tool for improvement... not an enemy.\n\nThis chess story is a great lesson for all of us in creative fields. We should see AI as an opportunity \u2013 an opportunity to learn, to get better at what we are already good at, what we like to do.\n\n(short pause)\n\nAnd think about how those chess programs evolved: before modern AI, like LLMs and Transformers, the best chess engines were built with millions of lines of complex, hand-crafted code. Now? It's more like one big \"brain\" that largely trains itself on the game.\n\n(pause)\n\nThe same kind of simplification can happen in our work. Today\u2019s AI can help simplify a lot of our complex coding tasks. Things that used to need thousands of lines of specific instructions can now be handled more elegantly by an AI that can think and adapt.\n\n(pause)\n\nAnd like chess players, we should probably use AI to get better at what we do.\n\n\n---\n\n## Linked Resources\n- [next](presentation://section_3_What)\n\n",
+    "links": [
+      {
+        "target_uri": "presentation://section_3_What",
+        "label": null
+      }
+    ],
+    "linked_from": [
+      {
+        "target_uri": "presentation://section_1_Hook",
+        "label": "section_1_Hook"
+      }
+    ]
   }
 }

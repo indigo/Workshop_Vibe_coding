@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "world-builder-mcp": {
+    "Vibelogic-mcp": {
       "command": "uv",
       "args": [
         "run",
